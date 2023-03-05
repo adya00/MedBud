@@ -2,10 +2,10 @@
 
 <!-- PROJECT LOGO -->
 
-  <h3 align="center">YOUR_TITLE</h3>
+  <h3 align="center">MedBud</h3>
 
   <p align="center">
-    YOUR_SHORT_DESCRIPTION
+    Saving Lives, one Text at a Time.
     <br />
     <a href="https://github.com/csivitu/Template"><strong> explore document»</strong></a>
     <br />
