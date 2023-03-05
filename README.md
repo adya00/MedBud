@@ -42,7 +42,7 @@
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 MedBud is an sms based service that works in collaboration with various ngos and hospitals to act as the first responders in emergency situations.
-`Template`
+
 
 
 ### Built With
