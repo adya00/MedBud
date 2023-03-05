@@ -7,7 +7,7 @@
   <p align="center">
     YOUR_SHORT_DESCRIPTION
     <br />
-    <a href="https://github.com/csivitu/Template"><strong> Saving lives, one text at a time»</strong></a>
+    <a href="https://github.com/csivitu/Template"><strong> explore document»</strong></a>
     <br />
     <br />
     <a href="https://github.com/csivitu/Template">View Demo</a>
