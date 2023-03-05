@@ -82,9 +82,7 @@ npm install
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+Any person, anywhere in this world in need for medical advice or diagnosis can simply text the number provided and potentially save a life in a matter of minute (https://example.com)_
 
 
 
